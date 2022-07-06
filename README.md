@@ -6,7 +6,7 @@ A simple shell script which allows you to compile an APP (.app) file to an IPA (
 
 To install IPALine on Linux, macOS, or Windows, download the shell script using curl:
 ```
-curl 'https://raw.githubusercontent.com/BrianWalczak/IPALine/master/main.sh' -o ./IPAline.sh
+curl 'https://raw.githubusercontent.com/BrianWalczak/IPALine/main/main.sh' -o ./IPAline.sh
 ```
 
 <br>
