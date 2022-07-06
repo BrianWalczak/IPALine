@@ -13,7 +13,7 @@ curl 'https://raw.githubusercontent.com/BrianWalczak/IPALine/master/main.sh' -o 
 
 Then, run the shell script by executing IPAline.sh
 ```
-sh IPAline.sh
+sudo sh IPAline.sh
 ```
 
 <br>
