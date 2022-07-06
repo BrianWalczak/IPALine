@@ -14,6 +14,6 @@ The application will ask for the following 3 items:
 and
 - The path to save the IPA in
 
-##Follow the prompts and that's it! Thanks for using IPALine
+### Follow the prompts and that's it! Thanks for using IPALine
 
 #### Made with ♡ by Brian Walczak
