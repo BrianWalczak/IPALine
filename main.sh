@@ -1,6 +1,12 @@
 printf "\033c";
 
-echo "Please enter the name of your iOS App (Do NOT include .ipa)";read nameofApp;
+echo "██╗██████╗░░█████╗░░░░░░░██╗░░░░░██╗███╗░░██╗███████╗
+██║██╔══██╗██╔══██╗░░░░░░██║░░░░░██║████╗░██║██╔════╝
+██║██████╔╝███████║█████╗██║░░░░░██║██╔██╗██║█████╗░░
+██║██╔═══╝░██╔══██║╚════╝██║░░░░░██║██║╚████║██╔══╝░░
+██║██║░░░░░██║░░██║░░░░░░███████╗██║██║░╚███║███████╗
+╚═╝╚═╝░░░░░╚═╝░░╚═╝░░░░░░╚══════╝╚═╝╚═╝░░╚══╝╚══════╝";
+echo "\nPlease enter the name of your iOS App (Do NOT include .ipa)";read nameofApp;
 echo "Enter the path to your .app file";read filepath;
 echo "Enter the path that you would like save your IPA in";read pathToSave;
 
