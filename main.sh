@@ -1,5 +1,3 @@
-#! /bin/bash
-
 printf "\033c";
 
 echo "Please enter the name of your iOS App (Do NOT include .ipa)";read nameofApp;
