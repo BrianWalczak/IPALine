@@ -11,7 +11,14 @@ curl 'https://raw.githubusercontent.com/BrianWalczak/IPALine/main/main.sh' -o ./
 
 <br>
 
-Then, run the shell script by executing IPAline.sh
+Next, make the shell script executable by running chmod
+```
+chmod u+x IPAline.sh
+```
+
+<br>
+
+Lastly, run the shell script by executing IPAline.sh
 ```
 sudo sh IPAline.sh
 ```
