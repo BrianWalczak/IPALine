@@ -4,26 +4,9 @@ A simple shell script which allows you to compile an APP (.app) file to an IPA (
 
 ## Installation
 
-To install IPALine on Linux, macOS, or Windows, download the shell script using curl:
-```
-curl 'https://raw.githubusercontent.com/BrianWalczak/IPALine/main/main.sh' -o ./IPAline.sh
-```
+To install IPALine on Linux, macOS, or Windows, open up the shell script at `main.sh`
 
-<br>
-
-Next, make the shell script executable by running chmod
-```
-chmod u+x IPAline.sh
-```
-
-<br>
-
-Lastly, run the shell script by executing IPAline.sh
-```
-sudo sh IPAline.sh
-```
-
-<br>
+Copy all of the contents, and paste it in the terminal. Then press enter to run the commands
 
 The application will ask for the following 3 items:
 - The name of the iOS App
